@@ -10,7 +10,7 @@ do repeat after me
 4. node mola.js
 5. enjoy
 
-https://github.com/cehuda1/mola-tv/blob/main/gambar.png
+![gambar](https://user-images.githubusercontent.com/121425666/236783359-64ba5e03-1e06-4206-a509-eaa16df7200d.png)
 
 Copy Ur email and login 
 use Juragan123 as Password
