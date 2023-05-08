@@ -1,0 +1,29 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "ccc",
+  "main": "mola.cjs",
+  "scripts": {
+    "test": "jsnd"
+  },
+  "keywords": [
+    "cc"
+  ],
+  "type": "module",
+  "author": "c",
+  "license": "ISC",
+  "dependencies": {
+    "@colors/colors": "^1.5.0",
+    "@faker-js/faker": "^7.6.0",
+    "axios": "^1.4.0",
+    "chalk": "^5.2.0",
+    "cheerio": "^1.0.0-rc.12",
+    "delay": "^5.0.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "nanoid": "^4.0.2",
+    "node-fetch": "^3.3.1",
+    "readline-sync": "^1.4.10",
+    "uuid": "^9.0.0"
+  }
+}
